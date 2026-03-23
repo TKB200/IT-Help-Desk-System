@@ -1,0 +1,47 @@
+[
+    {
+        "id": "USR-1001",
+        "name": "System Admin",
+        "username": "admin",
+        "password": "$2y$10$SP7eO3KUAqdpC/fO7b0CaeGZjAB1ZfYjMz9lZK9nQKOdhrjlAWF4i",
+        "role": "admin",
+        "location": "Head Office",
+        "created_at": "2026-03-23T10:05:37+01:00"
+    },
+    {
+        "id": "USR-1002",
+        "name": "Nimal Perera",
+        "username": "user1",
+        "password": "$2y$10$jeNpsp2RjiiRlhyTZB14Tu5zzcDp9UcQ1kMVtQGEAZfurUpEwmnPu",
+        "role": "user",
+        "location": "Colombo",
+        "created_at": "2026-03-23T10:05:38+01:00"
+    },
+    {
+        "id": "USR-1003",
+        "name": "Ayesha Silva",
+        "username": "user2",
+        "password": "$2y$10$jo2zVZvdWaKPhxg600KmcubHb7IlnmfvWEwS73tzS3jFEVHvPBLru",
+        "role": "user",
+        "location": "Kandy",
+        "created_at": "2026-03-23T10:05:38+01:00"
+    },
+    {
+        "id": "USR-1004",
+        "name": "Kasun Fernando",
+        "username": "support1",
+        "password": "$2y$10$D2UkxN1DjQ11Etc0rJDOzOffz/UJxmYFB5vo97S3NfDJHEIXrwB9G",
+        "role": "support",
+        "location": "Head Office",
+        "created_at": "2026-03-23T10:05:38+01:00"
+    },
+    {
+        "id": "USR-1005",
+        "name": "Dinithi Jayasinghe",
+        "username": "support2",
+        "password": "$2y$10$54vDCGAbIneBx0FpMamIv.wUeXCR421wsLU.J7nGGHYC8lBQ3.cOa",
+        "role": "support",
+        "location": "Galle",
+        "created_at": "2026-03-23T10:05:38+01:00"
+    }
+]
