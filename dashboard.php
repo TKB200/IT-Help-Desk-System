@@ -376,7 +376,7 @@ $resolvedCount = count(array_filter($tickets, static fn(array $ticket): bool => 
                                                 <option value="admin" <?= $member['role'] === 'admin' ? 'selected' : '' ?>>Admin</option>
                                                 <option value="none" <?= $member['role'] === 'none' ? 'selected' : '' ?>>Remove Role</option>
                                             </select>
-                                            <button type="submit" class="ghost-btn">Update Role</button>
+                                            <button type="submit" class="ghost-btn">Update the Role</button>
                                         </form>
 
                                         <form action="actions.php" method="post" class="inline-form">
