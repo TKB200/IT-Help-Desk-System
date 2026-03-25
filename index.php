@@ -55,12 +55,12 @@ $users = all_users();
 
                 <label>
                     <span>Username</span>
-                    <input type="text" name="username" placeholder="Enter your username" required>
+                    <input type="text" name="username" placeholder="Enter the username" required>
                 </label>
 
                 <label>
                     <span>Password</span>
-                    <input type="password" name="password" placeholder="Enter your password" required>
+                    <input type="password" name="password" placeholder="Please Enter your password" required>
                 </label>
 
                 <button type="submit" class="primary-btn">Open Dashboard</button>
